@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**HtetMyatAungg/HtetMyatAungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there My Name is Htet Myat Aung
+I'm actively looking for a software internship.
 
 - 🔭 I’m currently working on ...
 Ai stock predictor with python.
