@@ -1,5 +1,5 @@
 ## Hi there My Name is Htet Myat Aung
-Hi, I'm Htet Myat AungFirst-year Computer Science (Artificial Intelligence) Student @ Royal Holloway Maintaining a First-Class Average 
+Hi, I'm Htet Myat Aung. First-year Computer Science (Artificial Intelligence) Student @ Royal Holloway Maintaining a First-Class Average 
 I am an aspiring AI Researcher and Software Developer focused on the intersection of algorithmic efficiency, logic-based agents, and data-driven decision-making. As a member of MENSA, I enjoy tackling complex problems that require advanced logical reasoning and analytical rigor. 
 Current Standing: First Class Average at Royal Holloway, University of London.
 Key High-Scoring Modules: Mathematical Structures: 83.6%. Machine Fundamentals: 76.6%. Object-Oriented Programming: 72%.
