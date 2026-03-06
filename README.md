@@ -50,8 +50,8 @@ Aspiring Software Engineer and AI Researcher focused on algorithmic efficiency, 
 
 | Module | Grade |
 |---|---|
-| Mathematical Structures | 83.6% |
-| Machine Fundamentals | 76.6% |
+| Mathematical Structures | 80% |
+| Machine Fundamentals | 72% |
 | Object-Oriented Programming | 72% |
 
 ---
