@@ -15,7 +15,7 @@ Aspiring Software Engineer and AI Researcher focused on algorithmic efficiency, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![TypeScript]
+![TypeScript](https://img.shields.io/badge/TypeScript)
 
 **Libraries:** NumPy · Pandas · Matplotlib · scikit-learn · TensorFlow · Keras  
 **Concepts:** Transfer learning · Constraint-based agents · Data pipelines · OOP · Algorithm design · Statistical analysis
