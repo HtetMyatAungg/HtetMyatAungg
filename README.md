@@ -2,7 +2,7 @@
 
 **BSc Computer Science (Artificial Intelligence)** · Royal Holloway, University of London · First Class Average
 
-Aspiring Software Engineer and AI Researcher focused on full-stack AI systems, neurosymbolic reasoning, and data-driven decision-making. Volunteer Research Assistant at the [DICE Lab](https://dice-lab.github.io) (neurosymbolic AI). MENSA member. Elected Student Representative (CS cohort).
+Aspiring ML Engineer and ML/AI Researcher focused on LLM Deployment, neurosymbolic reasoning, and data-driven decision-making. Volunteer Research Assistant at the [DICE Lab](https://dice-lab.github.io) (neurosymbolic AI). MENSA member. Elected Student Representative (CS cohort).
 
 🌍 Egham, UK · 📬 [jianghenry25@gmail.com](mailto:jianghenry25@gmail.com) · 🔗 [htetmyataung.uk](https://htetmyataung.uk) · **Open to Summer 2026 internships**
 
