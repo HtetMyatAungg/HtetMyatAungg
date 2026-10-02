@@ -1,95 +1,97 @@
+<div align="center">
+
 # Hi, I'm Henry (Htet Myat Aung) 👋
 
-**BSc Computer Science (Artificial Intelligence)** · Royal Holloway, University of London · First Class Average
+**CS (Artificial Intelligence) @ Royal Holloway, University of London · ML Systems & Neurosymbolic AI**
 
-Aspiring ML Engineer and ML/AI Researcher focused on LLM Deployment, neurosymbolic reasoning, and data-driven decision-making. Volunteer Research Assistant at the [DICE Lab](https://dice-lab.github.io) (neurosymbolic AI). MENSA member. Elected Student Representative (CS cohort).
+🟢 **Open to Summer 2027 internships and 2027–28 placements** · 📍 London / Egham, UK
 
-🌍 Egham, UK · 📬 [jianghenry25@gmail.com](mailto:jianghenry25@gmail.com) · 🔗 [htetmyataung.uk](https://htetmyataung.uk) · **Open to Summer 2026 internships**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henry-htet-myat-aung/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://htetmyataung.uk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henry.htetmyataung@gmail.com)
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Libraries & Frameworks:** NumPy · Pandas · Matplotlib · scikit-learn · TensorFlow · Keras  
-**Concepts:** Transfer learning · Neurosymbolic AI · Serverless architecture · Constraint-based agents · OOP · Data pipelines
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 About me
 
-### 🌐 [MyanLearn](https://myanlearn.pages.dev) — AI-Powered Burmese Literacy Platform
-> TypeScript · React · Cloudflare Pages · Workers AI (Llama 3.1) · Full-Stack
-
-- Built a serverless full-stack platform reaching users across **18 countries** within days of launch
-- Integrated Cloudflare Workers AI for on-edge LLM inference — zero cold-start latency
-- Architected CI/CD pipeline with GitHub Actions; deployed entirely on Cloudflare's global edge network
-
-### 🔍 [CF Code Reviewer](https://github.com/HtetMyatAungg/cf-code-reviewer) — Serverless AI Code Review API
-> TypeScript · Cloudflare Workers · Llama 3.1 · REST API
-
-- Built a production REST API on Cloudflare Workers using Llama 3.1 for automated code review
-- Stateless, serverless design with sub-100ms global response times
-- Submitted as optional engineering assignment for Cloudflare internship application
-
-### 🧠 [Human vs Non-Human Face Classifier](https://github.com/HtetMyatAungg/human-face-classifier)
-> MobileNetV2 · Transfer Learning · TensorFlow · OpenCV · 99%+ validation accuracy
-
-- Engineered a `tf.data` pipeline with AUTOTUNE prefetching across 13,414 images
-- Deployed real-time Haar Cascade detection + MobileNetV2 classification at 30+ FPS
-- Full lifecycle: data collection → training → evaluation → live webcam deployment
-
-### ☄️ [NASA Near-Earth Object Hazard Classifier](https://github.com/HtetMyatAungg/nasa-neo-classifier)
-> Python · TensorFlow/Keras · NumPy · Pandas · scikit-learn · Binary Classification
-
-- Trained a neural network on NASA's NEO dataset to classify asteroids as hazardous or non-hazardous
-- Built end-to-end ML pipeline: data cleaning → feature engineering → model training → evaluation
-- Applied class imbalance handling and threshold tuning to optimise recall on hazardous cases
-
-### ♟️ Minesweeper AI — Constraint-Based Agent
-> Python · Algorithm Design · Complexity Analysis
-
-- Designed and benchmarked 3 agents: Random, Deterministic, and Subset Inference
-- Analysed win-rate gains vs O(n²) costs across 1–30 mine densities
-- Modular OOP architecture decoupling game state from agent logic
-
-### 📊 Titanic Survival Analysis — Decision Tree from Scratch
-> Python · Pandas · Statistical Analysis
-
-- Manually implemented Gini impurity and information gain without scikit-learn
-- Identified sex as the strongest survival predictor across demographic and socioeconomic features
+- 🎓 **BSc Computer Science (AI)**, Royal Holloway · First Class average · ISC Excellence Scholarship
+- 🔬 **Volunteer Research Assistant**, [DICE Lab](https://dice-lab.github.io) · neurosymbolic AI and LLM autoformalization
+- ⚙️ **Interested in ML infrastructure**: inference serving, distributed training, edge deployment
+- 🌏 **Long-term mission**: building technology infrastructure in Myanmar
+- 🏆 **UKCISA #WeAreInternational Awards 2026** finalist (Top 5) · MENSA member
 
 ---
 
 ## 🔬 Research
 
-**Volunteer Research Assistant** · [DICE Lab](https://dice-lab.github.io), Royal Holloway · 2025–Present  
-Working under Dr. Agnieszka Mensfelt and Prof. Kostas Stathis on neurosymbolic AI (GAMA/LELMA projects). Contributing to an autoformalization paper catalogue — curating and tagging the research landscape at the intersection of formal logic and machine learning.
+### LARP: Learning Abstract Rules in Prolog via LLM Autoformalization
+*UROP, Summer 2026 · DICE Lab · supervised by Prof. Kostas Stathis and Dr. Agnieszka Mensfelt*
+
+Can LLMs learn genuinely abstract world-model rules in Prolog, or do they just hardcode what they see?
+
+- Built a **multi-model experimental harness** spanning frontier API models and small local models (Ollama)
+- Designed a **3-layer evaluation protocol**: syntactic validity, runtime behaviour, semantic F1
+- Used **F1-vs-N sweeps** to separate true abstraction from hardcoding, with causal experiments at N = 5, 8, 11
+- Found and fixed a **silent evaluator bug** that zeroed scores on rule-based outputs
+
+`Prolog` `Python` `LLMs` `Ollama` · Related forks: [vacuumworld](https://github.com/HtetMyatAungg/vacuumworld) · [autoformalisation](https://github.com/HtetMyatAungg/autoformalisation)
 
 ---
 
-## 📈 Academic Highlights
+## 🚀 Featured projects
 
-| Module | Grade |
-|---|---|
-| Mathematical Structures | 80% |
-| Machine Fundamentals | 72% |
-| Object-Oriented Programming | 72% |
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🌐 [**MyanLearn**](https://myanlearn.pages.dev) · [repo](https://github.com/HtetMyatAungg/MyanLearn) · [API](https://github.com/HtetMyatAungg/myanlearn-api) | AI-powered Burmese literacy platform; users in **18+ countries** within days of launch | TypeScript · React · Cloudflare Workers AI (Llama 3.1) · GitHub Actions |
+| 🤖 [**Skopos**](https://github.com/HtetMyatAungg/Skopos) | Pre-deployment readiness check for home robots (Worlds Hackathon, team of 4). I built the **backend and containerisation** | Python · Docker |
+| 💸 [**MyanPay**](https://github.com/HtetMyatAungg/MyanPay) | Agentic payments prototype built at the LSE Agentic Society Hackathon | Hedera · Claude API · Groq Whisper |
+| 🔍 [**AI Code Review API**](https://github.com/HtetMyatAungg/cf_ai_Htet) | Serverless API that reviews, explains and suggests refactors for code | TypeScript · Cloudflare Workers · Llama 3.1 |
+| 🗓️ [**NS Internal Calendar**](https://github.com/HtetMyatAungg/ns-internal-calendar) | Scheduling tool for the RHUL Neuroscience Society: personal schedules, shared events with RSVP, team availability | Python · Streamlit · PostgreSQL |
+| ☄️ [**NASA NEO Hazard Classifier**](https://github.com/HtetMyatAungg/NASA_NEO_Classifier) | Hazard classification on 6,000+ heavily imbalanced asteroid records; random forest vs feedforward network with stratified splits, class weighting and log1p features | Python · scikit-learn · TensorFlow |
+| 🧠 [**Human Face Classifier**](https://github.com/HtetMyatAungg/HFC) | MobileNetV2 transfer learning, **99%+ validation accuracy**, real-time webcam inference at 30+ FPS | TensorFlow · OpenCV |
+| ♟️ [**Minesweeper AI**](https://github.com/HtetMyatAungg/Minesweeper-Efficiency) | Benchmarked random, deterministic and subset-inference agents across mine densities | Python |
 
 ---
 
-## 📫 Connect
+## 🏁 Hackathons & competitions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/htet-myat-aung-4a370932a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://htetmyataung.uk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jianghenry25@gmail.com)
+- 🛠️ **Worlds Hackathon** (Skopos) · **LSE Agentic Society Hackathon** (MyanPay) · **Grok Bot Commerce Hackathon** ([plot-market](https://github.com/HtetMyatAungg/plot-market)) · **World Model Hackathon**
+- 📅 Upcoming: **GreatUniHack** (Manchester) · **DurHack** (Durham) · **Cambridge Battlecode** (RHUL team lead)
+
+---
+
+## 🧑‍🤝‍🧑 Leadership & community
+
+- **Vice President**, RHUL AI & Robotics Society · workshop speaker (Vim, ML)
+- **Technology Officer**, RHUL Neuroscience Society
+- **Maths Mentor**, RHUL Maths Mentoring Scheme
+- **Student Speaker**, Times Higher Education
+
+---
+
+## 🛠️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-74283C?style=flat-square&logo=prolog&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🌱 Currently
+
+- 🃏 Building a **poker playground for AI agents** (Kuhn poker in C as level 1), then training an RL agent to play it
+- ⚡ Learning **C++** by rewriting Micrograd
+- 📚 Year 2: Operating Systems · Databases · Software Engineering · Information Security
