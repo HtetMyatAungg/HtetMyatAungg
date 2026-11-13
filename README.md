@@ -37,7 +37,7 @@ Each project below answers one question a hiring team might ask.
 
 | Project | The question it answers | Stack |
 | --- | --- | --- |
-| [**Toy Models of Superposition**](https://github.com/HtetMyatAungg/Toy-Model-Superposition-Replication) | *Can he read a research paper and reproduce the result?* Reproduced Anthropic's core claim: on sparse data a ReLU model stores 9 features in 5 neurons, a linear model only 5 | PyTorch |
+| [**Toy Models of Superposition**](https://github.com/HtetMyatAungg/Toy-Model-Superposition-Replication) | *Can he read a research paper and reproduce the result?* Reproduced Anthropic's core claim: as data gets sparser, a ReLU model goes from storing 5 features in 5 neurons to about 11, while a linear model stays at 5 | PyTorch |
 | **LARP** (UROP research, DICE Lab) | *Can he run an experiment properly?* Multi-model harness, 3-layer evaluation (syntax, runtime, semantic F1), F1-vs-N sweeps to tell real abstraction from hardcoding. Found and fixed a silent evaluator bug. Also a [merged PR](https://github.com/dicelab-rhul/autoformalisation/pull/21) to the lab's repo | Python · Prolog · Ollama |
 | [**MyanLearn**](https://myanlearn.pages.dev) · [API](https://github.com/HtetMyatAungg/myanlearn-api) | *Can he ship something people use?* Burmese literacy tutor for diaspora speakers, users in 18+ countries within days of launch | React · Cloudflare Workers AI |
 | [**Sentinel**](https://github.com/HtetMyatAungg/Sentinel) | *Does he know when an agent should stop?* Counterparty-risk agent that auto-decides clear cases and escalates uncertain ones, with tested guardrails | Python · LLM agents · pytest |
